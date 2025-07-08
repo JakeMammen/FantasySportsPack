@@ -7,10 +7,10 @@ classes:
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
   overlay_image: /assets/images/Fantasy Sports Pack Logo1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "More Daily Content"
+      url: "https://x.com/FantasySPack"
 
 ---
 
