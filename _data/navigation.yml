@@ -1,9 +1,9 @@
 main:
   - title: "Weekly Posts"
     url: /posts/
-  - title: "Rankings"
+  - title: "Draft Guide"
     url: /categories/
-  - title: "6 Pack"
+  - title: "Rankings"
     url: /tags/
   - title: "About"
     url: /about/
