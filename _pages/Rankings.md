@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "2025 Fantasy Football Draft Rankings"
 permalink: /tags/
-layout: tags
 author_profile: false
 ---
