@@ -1,6 +1,6 @@
 ---
 title: "Weekly Fantasy Football Analysis"
-layouts: Categories
+layout: categories
 permalink: /categories/
 author_profile: false
 ---
