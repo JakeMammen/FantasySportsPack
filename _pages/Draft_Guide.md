@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Fantasy Sports Pack Draft Guide"
 permalink: /posts/
 author_profile: false
 ---
