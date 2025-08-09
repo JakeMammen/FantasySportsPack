@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jake Mammen"
-  avatar : "/assets/images/Fantasy Sports Pack Logo1.png"
+  avatar : "/assets/images/Profile_Pic.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
