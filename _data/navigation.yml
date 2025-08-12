@@ -1,8 +1,9 @@
 main:
   - title: "Draft Guide"
+    url: /posts/
   - title: "Weekly FF Analysis"
-    url: /posts/
+    url: /categories/
   - title: "Rankings"
-    url: /posts/
+    url: /tags/
   - title: "About"
     url: /about/
