@@ -6,6 +6,8 @@ categories:
 tags:
   - Fantasy Football
   - Xfp
+layout: single
+classes: wide
 ---
 
 # 2024 NFL Fantasy Football Expected Stats Analysis
