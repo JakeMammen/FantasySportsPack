@@ -1,6 +1,6 @@
 ---
 title: "Expected Fantasy Points Receivers"
-date: 2025-08-11T15:34:30-04:00
+date: 2025-08-11
 categories:
   - Blog
 tags:
