@@ -1,5 +1,5 @@
 ---
 title: "2025 Fantasy Football Draft Rankings"
-permalink: /tags/
+permalink: /posts/
 author_profile: false
 ---
