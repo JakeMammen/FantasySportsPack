@@ -1,5 +1,5 @@
 ---
-title: "2024 Fantasy Football Expected Stats Analysis, Receivers"
+title: "Expected Fantasy Points Receivers"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
