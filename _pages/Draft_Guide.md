@@ -2,6 +2,7 @@
 title: "Fantasy Sports Pack Draft Guide"
 permalink: /posts/
 author_profile: false
+classes: wide
 ---
 
 # 2024 NFL Fantasy Football Expected Stats Analysis
