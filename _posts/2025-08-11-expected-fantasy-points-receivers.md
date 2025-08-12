@@ -29,9 +29,4 @@ The following analyzes NFL play-by-play data from the 2024 regular season (Weeks
   - **Expected touchdowns** (`exp_td`): Based on plays where the pass could reach the end zone.
   - **Expected PPR points** (`exp_PPR_pts`): Combines expected receptions, yards, and touchdowns using the PPR scoring formula.
 
-<figure>
-	<a href="/assets/images/exp_fp_WR2024.png"><img src="/assets/images/exp_fp_WR2024.png"></a>
-	<figcaption><a href="/assets/images/exp_fp_WR2024.png" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
-
 ![Expected Fantasy Points 2024 Receivers](/assets/images/exp_fp_WR2024.png "Expected Fantasy Points 2024 Receivers")
