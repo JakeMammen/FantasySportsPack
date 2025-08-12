@@ -2,7 +2,7 @@
 title: "Expected Fantasy Points Receivers"
 date: 2025-08-11T15:34:30-04:00
 categories:
-  - Stats
+  - blog
 tags:
   - Fantasy Football
   - Xfp
