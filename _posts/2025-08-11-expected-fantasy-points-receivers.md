@@ -31,4 +31,4 @@ The following analyzes NFL play-by-play data from the 2024 regular season (Weeks
 
 ![Expected Fantasy Points 2024 Receivers](/assets/images/exp_fp_WR2024.png "Expected Fantasy Points 2024 Receivers")
 
-<img src="../assets/images/exp_fp_WR2024.png" width=30%>
+<img src="_posts/assets/images/exp_fp_WR2024.png" width=30%>
