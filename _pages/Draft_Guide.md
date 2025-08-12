@@ -1,5 +1,5 @@
 ---
-title: "Fantasy Sports Pack Draft Guide"
+title: "2025 Fantasy Sports Pack Draft Guide"
 permalink: /posts/
 author_profile: false
 layout: single
@@ -24,4 +24,6 @@ The following analyzes NFL play-by-play data from the 2024 regular season (Weeks
   - **Expected yards** (`exp_yards`): Based on air yards and expected yards after catch for non-missing data plays.
   - **Expected touchdowns** (`exp_td`): Based on plays where the pass could reach the end zone.
   - **Expected PPR points** (`exp_PPR_pts`): Combines expected receptions, yards, and touchdowns using the PPR scoring formula.
+ 
+  <iframe src="" width="100%" height="600px" style="border:none;"></iframe>
 
