@@ -25,5 +25,5 @@ The following analyzes NFL play-by-play data from the 2024 regular season (Weeks
   - **Expected touchdowns** (`exp_td`): Based on plays where the pass could reach the end zone.
   - **Expected PPR points** (`exp_PPR_pts`): Combines expected receptions, yards, and touchdowns using the PPR scoring formula.
  
-  <iframe src="" width="100%" height="600px" style="border:none;"></iframe>
+  <iframe src="_data/exp_fp_WR2024.html" width="100%" height="600px" style="border:none;"></iframe>
 
