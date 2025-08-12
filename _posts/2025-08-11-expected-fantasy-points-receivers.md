@@ -8,6 +8,7 @@ tags:
   - Xfp
 layout: single
 classes: wide
+image: (/assets/images/exp_fp_WR2024.png) 
 ---
 
 # 2024 NFL Fantasy Football Expected Stats Analysis
@@ -29,4 +30,4 @@ The following analyzes NFL play-by-play data from the 2024 regular season (Weeks
   - **Expected touchdowns** (`exp_td`): Based on plays where the pass could reach the end zone.
   - **Expected PPR points** (`exp_PPR_pts`): Combines expected receptions, yards, and touchdowns using the PPR scoring formula.
 
-![Expected Fantasy Points 2024 Receivers](/assets/images/Fantasy Sports Pack Logo1.png "Expected Fantasy Points 2024 Receivers")
+![Expected Fantasy Points 2024 Receivers](/assets/images/exp_fp_WR2024.png "Expected Fantasy Points 2024 Receivers")
