@@ -2,18 +2,23 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin: 1em 0;
+    font-size: 1em;
 }
 th, td {
-    border: 1px solid #ccc;
-    padding: 8px;
+    border: 1px solid #555;
+    padding: 10px;
     text-align: left;
     vertical-align: top;
 }
 th {
-    background-color: #f4f4f4;
+    background-color: #333;
+    color: #fff;
     font-weight: bold;
 }
-/* Ensure responsiveness for wide tables */
+td {
+    color: #ddd;
+}
+/* Responsive table for mobile */
 @media screen and (max-width: 600px) {
     table {
         display: block;
