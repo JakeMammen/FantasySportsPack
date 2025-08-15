@@ -27,7 +27,7 @@ minimal_mistakes_skin: dark
 search: true
 
 head_scripts:
-  - "{{ '/assets/css/tables.css' | relative_url }}"
+  - "{{ '/assets/images/css/tables.css' | relative_url }}"
   
 # Build settings
 markdown: kramdown
