@@ -104,7 +104,8 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 
 The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created in 2024. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process.
 
-**Using the table**
+## Using the table
+
 We want to use the table as our pathway to drafting certain players/positions by deploying one of these stratigies. One thing to note is almost always there is no perfect strategy. Typically they draft will start out with the first two rounds going as it should based on the highest ranked players. After that there will be moments of reaching by certain teams and this is when we have to left the draft board come to us.
 
 For example, this table is more of if something happens then what should we do. If the Hero RB strategy is chosen then for "Option A" you'd want to select an RB1 with your first pick as an anchor for your team, then a WR1/WR2 with second pick, and lastly a WR2 with upside with your third pick. For rounds 4-6 you maybe want to eye one of the top 3-4 TE's or a top 5 QB, then another WR, and lastly an RB with a consistent pathway to fanasy points or who may have some upside to round out those rounds. In rounds 7-9 it can be a combination of WRs or RBs depending on how your roster looks and then take either a TE or QB depending on the remaining spot based on whether a TE or QB was taken in the middle rounds.
@@ -119,7 +120,8 @@ For example, this table is more of if something happens then what should we do. 
     * The greatest indicator for future injury risk is past injury history. When considering the entire draft and constructng your roster there are excepations to this rule.
     * Players who have off the field issues could run the risk of hurting your team long term, especially leading up to the fantasy post season.
 
-**Fantasy Sports Pack's Preferred Strategy**
+## Fantasy Sports Pack's Preferred Strategy
+
 My preferred strategy is the HERO RB strategy. Taking an RB1 who bulsters 250+ carries, has catching ability (PPR scoring), and a road to touchdowns is my preferred first pick. After that finding a high upside WR1/WR2 is a nice addition to add some extra fantasy points from week to week. Lastly another WR2/WR3 with upside to round out the first three rounds. If possible, a TE1 if avaliable to begin rounds four through six is my preferred 4th round pick. Another solid RB with upside and another WR to round out the middle rounds. Then a brekaout QB is how I like to start the later rounds. After that, the goal is to pick out potential breakout candidates who could be come stars come post season. This could include rookies in a good offensive scheme or perhaps some savvy veterans who have found new teams.
 
 At the end of the day, everyone knows there leagues better than me. While a certain strategy may help with preparation and an idea of what to do next, it's important to go into a draft with an open mind and allow the board to come to you. If a train of RB's go jump on the remaining high value RB's or if a train of WR's go consider jumping on a few high value WR's early. There is typically plenty of value picks in the later rounds, so don't panic as some of the gold can be found in the later. 
