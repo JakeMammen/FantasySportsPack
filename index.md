@@ -3,7 +3,7 @@ layout: splash
 classes:
   - landing
   - dark-theme
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "Welcome to Fantasy Sports Pack! Your go-to resource for fantasy football draft strategies and tips."
 header:
   overlay_image: /assets/images/Fantasy Sports Pack Logo1.jpg
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
@@ -11,4 +11,4 @@ header:
     - label: "More Daily Content"
       url: "https://x.com/FantasySPack"
 ---
-Welcome to Fantasy Sports Pack! Your go-to resource for fantasy football draft strategies and tips.
+
