@@ -26,7 +26,7 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 
 <table border="1">
   <thead>
-    <tr>
+    <tr style="background-color: #D3D3D3;">
       <th>Strategy</th>
       <th>Option</th>
       <th>Rounds 1 to 3 (Focus on RB & WR)</th>
@@ -35,56 +35,63 @@ When it comes to building the perfect fantasy football draft strategy it's impor
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="background-color: #E6F0FA;">
       <td>Hero RB</td>
       <td>A</td>
       <td>1 RB + 1 WR + 1 WR</td>
       <td>1 TE/QB + 1 WR + 1 RB</td>
       <td>1 RB + 1 WR + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #E6F0FA;">
       <td>Hero RB</td>
       <td>B</td>
       <td>1 WR + 1 WR + 1 RB</td>
       <td>2 RB + 1 TE/QB</td>
       <td>2 WR + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #E6F0FA;">
       <td>Hero RB</td>
       <td>C</td>
       <td>1 WR + 1 RB + 1 WR</td>
       <td>2 WR + 1 TE/QB</td>
       <td>2 RB + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #E6F4E6;">
       <td>Super Hero RB</td>
       <td>A</td>
       <td>2 RB + 1 WR</td>
       <td>2 WR + 1 TE/QB</td>
       <td>1 WR + 1 RB + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #E6F4E6;">
       <td>Super Hero RB</td>
       <td>B</td>
       <td>2 RB + 1 WR</td>
       <td>1 RB + 1 WR + 1 TE/QB</td>
       <td>2 WR + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #FFF9E6;">
       <td>Zero RB</td>
       <td>A</td>
       <td>3 WR</td>
       <td>2 RB + 1 TE/QB</td>
       <td>1 RB + 1 WR + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #FFF9E6;">
+      <td>Zero RB</td>
+      <td>B</td>
+      <td>3 WR</td>
+      <td>1 RB + 1 WR + 1 TE/QB</td>
+      <td>2 RB + 1 TE/QB</td>
+    </tr>
+    <tr style="background-color: #F0E6FA;">
       <td>Heavy RB</td>
       <td>A</td>
       <td>3 RB</td>
       <td>2 WR + 1 TE/QB</td>
       <td>2 WR + 1 TE/QB</td>
     </tr>
-    <tr>
+    <tr style="background-color: #F0E6FA;">
       <td>Heavy RB</td>
       <td>B</td>
       <td>3 RB</td>
@@ -93,17 +100,6 @@ When it comes to building the perfect fantasy football draft strategy it's impor
     </tr>
   </tbody>
 </table>
-
-| Strategy       | Option | Rounds 1 to 3 (Focus on RB & WR) | Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB) | Rounds 7 to 9 (2 WR/RB + 1 TE or QB) |
-|----------------|--------|----------------------------------|------------------------------------------------|---------------------------------------|
-| Hero RB        | A      | 1 RB + 1 WR + 1 WR               | 1 TE/QB + 1 WR + 1 RB                          | 1 RB + 1 WR + 1 TE/QB                |
-| Hero RB        | B      | 1 WR + 1 WR + 1 RB               | 2 RB + 1 TE/QB                                 | 2 WR + 1 TE/QB                        |
-| Hero RB        | C      | 1 WR + 1 RB + 1 WR               | 2 WR + 1 TE/QB                                 | 2 RB + 1 TE/QB                        |
-| Super Hero RB  | A      | 2 RB + 1 WR                      | 2 WR + 1 TE/QB                                 | 1 WR + 1 RB + 1 TE/QB                |
-| Super Hero RB  | B      | 2 RB + 1 WR                      | 1 RB + 1 WR + 1 TE/QB                          | 2 WR + 1 TE/QB                        |
-| Zero RB        | A      | 3 WR                             | 2 RB + 1 TE/QB                                 | 1 RB + 1 WR + 1 TE/QB                |
-| Heavy RB       | A      | 3 RB                             | 2 WR + 1 TE/QB                                 | 2 WR + 1 TE/QB                        |
-| Heavy RB       | B      | 3 RB                             | 3 WR                                           | 1 WR + 1 TE + 1 QB                    |
 > Table adapted from Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
 
 The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created in 2024. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process.
