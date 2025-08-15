@@ -27,76 +27,76 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 <table border="1">
   <thead>
     <tr style="background-color: #D3D3D3;">
-      <th>Strategy</th>
-      <th>Option</th>
-      <th>Rounds 1 to 3 (Focus on RB & WR)</th>
-      <th>Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB)</th>
-      <th>Rounds 7 to 9 (2 WR/RB + 1 TE or QB)</th>
+      <th style="color: black;">Strategy</th>
+      <th style="color: black;">Option</th>
+      <th style="color: black;">Rounds 1 to 3 (Focus on RB & WR)</th>
+      <th style="color: black;">Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB)</th>
+      <th style="color: black;">Rounds 7 to 9 (2 WR/RB + 1 TE or QB)</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #E6F0FA;">
-      <td>Hero RB</td>
-      <td>A</td>
-      <td>1 RB + 1 WR + 1 WR</td>
-      <td>1 TE/QB + 1 WR + 1 RB</td>
-      <td>1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">Hero RB</td>
+      <td style="color: black;">A</td>
+      <td style="color: black;">1 RB + 1 WR + 1 WR</td>
+      <td style="color: black;">1 TE/QB + 1 WR + 1 RB</td>
+      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #E6F0FA;">
-      <td>Hero RB</td>
-      <td>B</td>
-      <td>1 WR + 1 WR + 1 RB</td>
-      <td>2 RB + 1 TE/QB</td>
-      <td>2 WR + 1 TE/QB</td>
+      <td style="color: black;">Hero RB</td>
+      <td style="color: black;">B</td>
+      <td style="color: black;">1 WR + 1 WR + 1 RB</td>
+      <td style="color: black;">2 RB + 1 TE/QB</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #E6F0FA;">
-      <td>Hero RB</td>
-      <td>C</td>
-      <td>1 WR + 1 RB + 1 WR</td>
-      <td>2 WR + 1 TE/QB</td>
-      <td>2 RB + 1 TE/QB</td>
+      <td style="color: black;">Hero RB</td>
+      <td style="color: black;">C</td>
+      <td style="color: black;">1 WR + 1 RB + 1 WR</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
+      <td style="color: black;">2 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #E6F4E6;">
-      <td>Super Hero RB</td>
-      <td>A</td>
-      <td>2 RB + 1 WR</td>
-      <td>2 WR + 1 TE/QB</td>
-      <td>1 WR + 1 RB + 1 TE/QB</td>
+      <td style="color: black;">Super Hero RB</td>
+      <td style="color: black;">A</td>
+      <td style="color: black;">2 RB + 1 WR</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
+      <td style="color: black;">1 WR + 1 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #E6F4E6;">
-      <td>Super Hero RB</td>
-      <td>B</td>
-      <td>2 RB + 1 WR</td>
-      <td>1 RB + 1 WR + 1 TE/QB</td>
-      <td>2 WR + 1 TE/QB</td>
+      <td style="color: black;">Super Hero RB</td>
+      <td style="color: black;">B</td>
+      <td style="color: black;">2 RB + 1 WR</td>
+      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #FFF9E6;">
-      <td>Zero RB</td>
-      <td>A</td>
-      <td>3 WR</td>
-      <td>2 RB + 1 TE/QB</td>
-      <td>1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">Zero RB</td>
+      <td style="color: black;">A</td>
+      <td style="color: black;">3 WR</td>
+      <td style="color: black;">2 RB + 1 TE/QB</td>
+      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #FFF9E6;">
-      <td>Zero RB</td>
-      <td>B</td>
-      <td>3 WR</td>
-      <td>1 RB + 1 WR + 1 TE/QB</td>
-      <td>2 RB + 1 TE/QB</td>
+      <td style="color: black;">Zero RB</td>
+      <td style="color: black;">B</td>
+      <td style="color: black;">3 WR</td>
+      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">2 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #F0E6FA;">
-      <td>Heavy RB</td>
-      <td>A</td>
-      <td>3 RB</td>
-      <td>2 WR + 1 TE/QB</td>
-      <td>2 WR + 1 TE/QB</td>
+      <td style="color: black;">Heavy RB</td>
+      <td style="color: black;">A</td>
+      <td style="color: black;">3 RB</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
+      <td style="color: black;">2 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #F0E6FA;">
-      <td>Heavy RB</td>
-      <td>B</td>
-      <td>3 RB</td>
-      <td>3 WR</td>
-      <td>1 WR + 1 TE + 1 QB</td>
+      <td style="color: black;">Heavy RB</td>
+      <td style="color: black;">B</td>
+      <td style="color: black;">3 RB</td>
+      <td style="color: black;">3 WR</td>
+      <td style="color: black;">1 WR + 1 TE + 1 QB</td>
     </tr>
   </tbody>
 </table>
