@@ -24,6 +24,76 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 
 **League Format: Two WR and One Flex**
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Strategy</th>
+      <th>Option</th>
+      <th>Rounds 1 to 3 (Focus on RB & WR)</th>
+      <th>Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB)</th>
+      <th>Rounds 7 to 9 (2 WR/RB + 1 TE or QB)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hero RB</td>
+      <td>A</td>
+      <td>1 RB + 1 WR + 1 WR</td>
+      <td>1 TE/QB + 1 WR + 1 RB</td>
+      <td>1 RB + 1 WR + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Hero RB</td>
+      <td>B</td>
+      <td>1 WR + 1 WR + 1 RB</td>
+      <td>2 RB + 1 TE/QB</td>
+      <td>2 WR + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Hero RB</td>
+      <td>C</td>
+      <td>1 WR + 1 RB + 1 WR</td>
+      <td>2 WR + 1 TE/QB</td>
+      <td>2 RB + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Super Hero RB</td>
+      <td>A</td>
+      <td>2 RB + 1 WR</td>
+      <td>2 WR + 1 TE/QB</td>
+      <td>1 WR + 1 RB + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Super Hero RB</td>
+      <td>B</td>
+      <td>2 RB + 1 WR</td>
+      <td>1 RB + 1 WR + 1 TE/QB</td>
+      <td>2 WR + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Zero RB</td>
+      <td>A</td>
+      <td>3 WR</td>
+      <td>2 RB + 1 TE/QB</td>
+      <td>1 RB + 1 WR + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Heavy RB</td>
+      <td>A</td>
+      <td>3 RB</td>
+      <td>2 WR + 1 TE/QB</td>
+      <td>2 WR + 1 TE/QB</td>
+    </tr>
+    <tr>
+      <td>Heavy RB</td>
+      <td>B</td>
+      <td>3 RB</td>
+      <td>3 WR</td>
+      <td>1 WR + 1 TE + 1 QB</td>
+    </tr>
+  </tbody>
+</table>
+
 | Strategy       | Option | Rounds 1 to 3 (Focus on RB & WR) | Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB) | Rounds 7 to 9 (2 WR/RB + 1 TE or QB) |
 |----------------|--------|----------------------------------|------------------------------------------------|---------------------------------------|
 | Hero RB        | A      | 1 RB + 1 WR + 1 WR               | 1 TE/QB + 1 WR + 1 RB                          | 1 RB + 1 WR + 1 TE/QB                |
