@@ -1,7 +1,7 @@
 ---
 title: "2025 Fantasy Sports Pack Draft Guide"
 permalink: /posts/
-author_profile: false
+author_profile: true
 layout: single
 classes: wide
 ---
