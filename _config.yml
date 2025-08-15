@@ -38,6 +38,7 @@ timezone: America/Chicago
 include:
   - _pages
   - _data
+  - _layouts
   - _posts
   - assets
 
