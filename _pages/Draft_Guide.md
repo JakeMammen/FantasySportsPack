@@ -26,7 +26,7 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 
 | Strategy       | Option | Rounds 1 to 3 (Focus on RB & WR) | Rounds 4 to 6 (Round out RB/WR/Flex + 1 TE or QB) | Rounds 7 to 9 (2 WR/RB + 1 TE or QB) |
 |----------------|--------|----------------------------------|------------------------------------------------|---------------------------------------|
-| Hero RB        | A      | 1 RB + 1 WR + 1 WR                     | 1 RB + 1 WR + 1 TE/QB                          | 1 RB + 1 WR + 1 TE/QB                |
+| Hero RB        | A      | 1 RB + 1 WR + 1 WR                     | 1 TE/QB + 1 RB + 1 WR                          | 1 RB + 1 WR + 1 TE/QB                |
 | Hero RB        | B      | 1 WR + 1 WR + 1 RB                     | 2 RB + 1 TE/QB                                  | 2 WR + 1 TE/QB                        |
 | Hero RB        | C      | 1 WR + 1 RB + 1 WR                     | 2 WR + 1 TE/QB                                  | 2 RB + 1 TE/QB                        |
 | Super Hero RB  | A      | 2 RB + 1 WR                     | 2 WR + 1 TE/QB                                  | 1 WR + 1 RB + 1 TE/QB                |
@@ -34,7 +34,7 @@ When it comes to building the perfect fantasy football draft strategy it's impor
 | Zero RB        | A      | 3 WR                            | 2 RB + 1 TE/QB                                  | 1 RB + 1 WR + 1 TE/QB                |
 | Heavy RB       | A      | 3 RB                            | 2 WR + 1 TE/QB                                  | 2 WR + 1 TE/QB                        |
 | Heavy RB       | B      | 3 RB                            | 3 WR                                            | 1 WR + 1 TE + 1 QB                    |
-#### Source: Dwain McFarland, 2024; Fantasy Life
+> Table adapted from Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
 
 The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created in 2024. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process.
 
