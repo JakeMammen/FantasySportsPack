@@ -3,6 +3,7 @@ title: "2025 Fantasy Sports Pack Draft Guide"
 permalink: /posts/
 author_profile: true
 layout: single
+classes: wide
 ---
 
 Welcome to the 2025 Fantasy Sports Pack Draft Guide. A couple things to keep in mind before we get started. The following will be based off 10-team leagues, Points Per Reception (PPR) scoring format, and the standard team structure of 1 QB, 2 RB, 2 WR, 1 flex, 1 TE, 1 D/ST, and 1 K. My goal is to provide several ideas and techniques on how you can approach your drafts. Regardless of whether it's a 10-team league or not, the same approach can be used universally across larger team league formats. However, we need to keep in mind that for each team added the value and demand of players moves up.
