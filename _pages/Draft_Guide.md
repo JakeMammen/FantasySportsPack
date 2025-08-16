@@ -81,7 +81,7 @@ When it comes to building the perfect fantasy football draft strategy it's impor
       <td style="color: black;">Zero RB</td>
       <td style="color: black;">B</td>
       <td style="color: black;">3 WR</td>
-      <td style="color: black;">1 TE/QB + 1 WR + 1 RB</td>
+      <td style="color: black;">1 TE/QB + 1 RB + 1 WR</td>
       <td style="color: black;">2 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #F0E6FA;">
