@@ -100,9 +100,9 @@ When it comes to building the perfect fantasy football draft strategy it's impor
     </tr>
   </tbody>
 </table>
-> Table adapted from Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
+> Table adopted from Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
 
-The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created in 2024. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process.
+The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created in 2024. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process. While each strategy has an applicable option, there are a few options where I really try to stick to the order at which the positons are listed in the table. For example, HERO RB Option A, I would take RB + WR + RB in that order. Then for rounds 4-6 I would try to take either elite TE or QB first, with a WR and RB to follow in that particular order.
 
 ## Using the table
 
