@@ -60,14 +60,14 @@ When it comes to building the perfect fantasy football draft strategy it's impor
       <td style="color: black;">Super Hero RB</td>
       <td style="color: black;">A</td>
       <td style="color: black;">2 RB + 1 WR</td>
-      <td style="color: black;">2 WR + 1 TE/QB</td>
+      <td style="color: black;">1 TE/QB + 2 WR</td>
       <td style="color: black;">1 WR + 1 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #E6F4E6;">
       <td style="color: black;">Super Hero RB</td>
       <td style="color: black;">B</td>
       <td style="color: black;">2 RB + 1 WR</td>
-      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">1 TE/QB + 1 WR + 1 RB</td>
       <td style="color: black;">2 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #FFF9E6;">
@@ -81,14 +81,14 @@ When it comes to building the perfect fantasy football draft strategy it's impor
       <td style="color: black;">Zero RB</td>
       <td style="color: black;">B</td>
       <td style="color: black;">3 WR</td>
-      <td style="color: black;">1 RB + 1 WR + 1 TE/QB</td>
+      <td style="color: black;">1 TE/QB + 1 WR + 1 RB</td>
       <td style="color: black;">2 RB + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #F0E6FA;">
       <td style="color: black;">Heavy RB</td>
       <td style="color: black;">A</td>
       <td style="color: black;">3 RB</td>
-      <td style="color: black;">2 WR + 1 TE/QB</td>
+      <td style="color: black;">1 TE/QB + 2 WR</td>
       <td style="color: black;">2 WR + 1 TE/QB</td>
     </tr>
     <tr style="background-color: #F0E6FA;">
