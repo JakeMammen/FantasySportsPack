@@ -1,5 +1,5 @@
 ---
-title: "Post: Link"
+title: "WR Projections"
 categories:
   - Blog
 tags:
