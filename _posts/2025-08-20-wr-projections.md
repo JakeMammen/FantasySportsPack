@@ -12,7 +12,7 @@ classes: wide
   <tr style="background-color: purple; color: white;">
     <th colspan="7"><b>2025 Fantasy Football WR Projections (PPR)</b></th>
   </tr>
-  <tr style="background-color: white;">
+  <tr>
     <th>Player</th>
     <th>Position</th>
     <th>Touchdowns</th>
@@ -21,7 +21,7 @@ classes: wide
     <th>Targets</th>
     <th>Fantasy Points</th>
   </tr>
-  <tr style="background-color: white;">
+  <tr style="background-color: white; color: black;">
     <td>J.Chase</td>
     <td>WR</td>
     <td>12</td>
@@ -30,7 +30,7 @@ classes: wide
     <td>164</td>
     <td>339</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #f0f0f0; color: black;">
     <td>J.Jefferson</td>
     <td>WR</td>
     <td>9</td>
@@ -39,7 +39,7 @@ classes: wide
     <td>154</td>
     <td>314</td>
   </tr>
-  <tr style="background-color: white;">
+  <tr style="background-color: white; color: black;">
     <td>C.Lamb</td>
     <td>WR</td>
     <td>8</td>
@@ -48,7 +48,7 @@ classes: wide
     <td>171</td>
     <td>312</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #f0f0f0; color: black;">
     <td>A.St. Brown</td>
     <td>WR</td>
     <td>10</td>
@@ -57,7 +57,7 @@ classes: wide
     <td>151</td>
     <td>311</td>
   </tr>
-  <tr style="background-color: white;">
+  <tr style="background-color: white; color: black;">
     <td>M.Nabers</td>
     <td>WR</td>
     <td>7</td>
@@ -66,7 +66,7 @@ classes: wide
     <td>178</td>
     <td>285</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #f0f0f0; color: black;">
     <td>B.Thomas</td>
     <td>WR</td>
     <td>9</td>
@@ -75,7 +75,7 @@ classes: wide
     <td>140</td>
     <td>283</td>
   </tr>
-  <tr style="background-color: white;">
+  <tr style="background-color: white;" color: black;>
     <td>D.London</td>
     <td>WR</td>
     <td>9</td>
