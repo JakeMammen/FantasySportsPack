@@ -3,7 +3,9 @@ title: "WR Projections"
 categories:
   - Blog
 tags:
-  - Post Formats
+  - WRs
+  - 2025 Projections
+  - PPR
 layout: single
 classes: wide
 ---
