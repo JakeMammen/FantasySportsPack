@@ -22,7 +22,7 @@ tags:
     <th>Fantasy Points</th>
   </tr>
   <tr style="background-color: white; color: black;">
-    <td>B.Owers</td>
+    <td>B.Bowers</td>
     <td>TE</td>
     <td>6</td>
     <td>1254</td>
