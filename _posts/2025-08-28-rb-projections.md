@@ -6,6 +6,8 @@ tags:
   - 2025 Projections
   - PPR
   - RBs
+layout: single
+classes: wide
 ---
 
 <span style="background-color: #FFFF99; color: black;"><b>2025 RB Projections comming soon!</b></span>
