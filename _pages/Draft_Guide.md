@@ -83,9 +83,9 @@ When it comes to building the perfect fantasy football draft strategy it's impor
     </tr>
   </tbody>
 </table>
-> Table credit from Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
+> Table credit: Dwain McFarland, Fantasy Life, 2024. [[Link](https://www.fantasylife.com/articles/fantasy/the-perfect-fantasy-football-draft-strategy-for-2024)]
 
-The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created. When I came across it last year, I adopted the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process. While each strategy has an applicable option, there are a few options where I really try to stick to the order at which the positons are listed in the table. 
+The above table I have to attribute to an idea Dwain McFarland of Fantasy Life created. When I found this last year, I took the idea, used it in a few of my leagues, and found some success. The table has been modified slighty from the original to incorporate my thought process. While each strategy has an applicable option, there are a few options where I really try to stick to the order at which the positons are listed in the table. 
 
 ## Using the table
 
