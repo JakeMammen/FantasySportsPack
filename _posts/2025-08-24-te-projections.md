@@ -6,6 +6,8 @@ tags:
   - TEs
   - 2025 Projections
   - PPR
+layout: single
+classes: wide
 ---
 
 <table>
