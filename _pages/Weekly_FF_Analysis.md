@@ -1,6 +1,6 @@
 ---
 title: "Weekly Fantasy Football Analysis"
 layout: posts
-permalink: /_posts/
+permalink: /categories/
 author_profile: true
 ---
